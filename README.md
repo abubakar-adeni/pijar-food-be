@@ -32,9 +32,10 @@ nodemon app
 
 # Related Project
 
-:rocket: [`Frontend Recipe Food`](https://github.com/abubakar-adeni/hirejob_fe)
+:rocket: [`Frontend Recipe Food`](https://github.com/abubakar-adeni/react-food)
 
 :rocket: [`Backend Recipe Food`](https://github.com/abubakar-adeni/pijar-food-be)
 
 :rocket: [`Demo Recipe Food`](https://react-food-fawn.vercel.app/)
+
 
